@@ -1,0 +1,6 @@
+Features that we can include:
+
+1) Generate Script (If needed)
+2) optional pair up with smart watches for heart beat monitoring (At last)
+3) AI model should be able to show what kind of gestures or poses has to be followed in order to improvise his speaking ability (At last)
+4)
